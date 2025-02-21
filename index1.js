@@ -6,4 +6,6 @@ document.write("js class")
 // take input  from user
 let num=parseInt(prompt("Enter first number"));
 let num1=parseInt(prompt("enter a second e number"));
+
+
 console.log(num+num1);
