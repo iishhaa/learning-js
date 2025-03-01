@@ -5,6 +5,7 @@ document.write("java script");
 //pop-up
 alert("dont do this");
 
+
 //we cant re-declared variable again in let like
 //let num=90;
 //let num=89; XXX
