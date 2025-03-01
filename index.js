@@ -15,3 +15,5 @@ alert("dont do this");
 //wap to swap two values using third variable ,values should we taken from 
 //write a program to add two numbers and find square
 //
+
+// nested if else =it is used when if any condition is true and cause of true based on any other condition
